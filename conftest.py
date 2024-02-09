@@ -20,7 +20,7 @@ options.add_argument("--headless")
 # options.add_argument("--disable-cache")
 # --- запускать браузер в режиме инкогнито ---
 options.add_argument("--incognito")
-# --- запускать браузер с заданным разрешением ---
+# --- запускать браузер с заданным разрешением окна---
 options.add_argument("--window-size=1920,1080")
 
 
