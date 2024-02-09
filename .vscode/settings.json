@@ -1,0 +1,28 @@
+{
+    "python.testing.pytestArgs": [
+        "Tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "cSpell.language": "en,ru,ru-RU",
+    "cSpell.words": [
+        "ejik",
+        "excinfo",
+        "hookwrapper",
+        "MAINPAGEURL",
+        "makereport",
+        "nodeid",
+        "passw",
+        "pydantic",
+        "pydantics",
+        "STREAMPAGEURL",
+        "USERLOGIN",
+        "USERPASSWORD",
+        "vkplay",
+        "попапа",
+        "предпросмотром",
+        "стриминга",
+        "стримов",
+        "стримят"
+    ]
+}
